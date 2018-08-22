@@ -35,3 +35,7 @@ git config --global -l 								- to list the config file
 git config --global -user.name "BT_Developer" 					- to set user name
 git config --global -user.mail "sanjay@gmail.com"				- to set user mail
 
+
+
+****************SUCCESS**********************
+
